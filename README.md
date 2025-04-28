@@ -64,30 +64,67 @@ Finally, based on empirical findings, conclusions were drawn and recommendations
 
 ![image](https://github.com/user-attachments/assets/067b0d11-85a4-4893-a088-d632f91561b9)
 
+### Uniform Prompt Used
 
-# Result : The Prompt for the above problem statement executed successfully.
+Prompt:
+"Summarize the following paragraph into exactly 5 concise, informative bullet points that capture the main ideas clearly and completely."
 
+### Execution Observations Table
 
+![image](https://github.com/user-attachments/assets/d2921de7-b6ed-4961-a491-759b8fc789a1)
 
+### Detailed Metrics for Response Evaluation
 
+1. Accuracy
+This refers to the correctness of the information presented by the AI in its response. Responses were checked to see if they preserved the factual integrity of the original paragraph.
 
+2. Clarity
+This measures how understandable the AI’s response is to the average user. Well-structured, grammatically correct sentences contributed to higher clarity scores.
 
+3. Depth
+This evaluates the extent to which the AI captured not just surface-level details but also underlying themes and nuanced points from the original paragraph.
 
+4. Relevance
+This metric assesses whether the AI stayed focused on the original topic without introducing unrelated or filler content.
 
+5. Language Quality
+This involves the fluency, grammar, style, and sophistication of the language used in the response.
 
+### Performance Evaluation Table
 
+![image](https://github.com/user-attachments/assets/d9c098f1-55c0-49cd-bb0f-2f3bee76bd38)
 
+### Observations and Inferences
 
+ChatGPT consistently produced the most comprehensive and human-like responses, offering detailed but slightly verbose summaries.
 
+Claude focused on safe, ethically aligned outputs, sometimes at the expense of brevity or richness in content.
 
+Bard demonstrated excellent real-time facts integration but lacked the same depth as ChatGPT or Claude in synthesizing information.
 
+Cohere Command excelled in straightforward factual summarization but did not demonstrate creative rephrasing or nuanced understanding.
 
+Meta AI provided well-balanced responses with conversational fluency, making it highly suitable for customer service or casual interactions.
 
+### Use Case Suitability Table
 
+![image](https://github.com/user-attachments/assets/229a8efe-25a5-40e8-8605-9db0cd94abbc)
 
+### Limitations of the Study
 
+In future studies, it would be beneficial to:
 
+Include prompts in multiple languages.
+
+Test performance across a wider range of tasks such as coding, translation, storytelling, and technical writing.
+
+Analyze AI behavior under multi-turn conversational settings.
+
+Assess platforms for bias, hallucination rates, and safety compliance.
 
 ### Result:
+Through a comprehensive, methodologically sound experiment, the relative performance of ChatGPT, Claude, Bard, Cohere Command, and Meta AI in 2024 has been systematically evaluated.
+Each platform demonstrated specific strengths and was best suited for particular types of tasks.
+ChatGPT, with its highly detailed and structured responses, emerged as the overall top performer in summarization tasks. However, other platforms like Bard and Claude offer distinct advantages in scenarios requiring fast retrieval or high ethical compliance, respectively.
 Thus the Prompting tools are executed and analysed sucessfully .
 
